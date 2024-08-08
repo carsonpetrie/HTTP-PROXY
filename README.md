@@ -1,5 +1,3 @@
-# Asgn3 README
-
 ## Carson Petrie - cepetrie - cepetrie@ucsc.edu
 
 ## Directory Contents
