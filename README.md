@@ -52,12 +52,3 @@ The makefile can also clean the directory via the `make clean` command. This wil
 executable files, or .o files created during building.
 
 
-## Known Errors
-
-Unfortunately I must add a known errors for the first time to a README. This proxy is unable to pass the CI tests, 
-
-however I am unable to locally reproduce the failure to balance requests and number of healthchecks, so I
-
-cannot determinately identify what about my code is failing aside from the inability to pass the CI. 
-
-
